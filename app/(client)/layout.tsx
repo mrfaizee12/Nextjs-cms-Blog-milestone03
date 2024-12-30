@@ -7,7 +7,7 @@ import { Provider } from "../utils/Provider";
 const firaCode = Fira_Code({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://next-cms-blog-ce.vercel.app/"),
+  metadataBase: new URL("https://nextjs-cms-blog-milestone03-faizee.vercel.app/"),
   // title: "Dev Blook - A blog for developers",
   title: {
     default: "Dev Blook - A blog for developers",
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     description: "A blog for developers by developers!",
     type: "website",
     locale: "en_US",
-    url: "https://next-cms-blog-ce.vercel.app/",
+    url: "https://nextjs-cms-blog-milestone03-faizee.vercel.app/",
     siteName: "DevBlook"
   },
 };
